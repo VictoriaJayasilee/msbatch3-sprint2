@@ -1,0 +1,10 @@
+insert into SL_INV(ID, DATE ) values (1, sysdate());
+insert into SL_INV(ID, DATE) values (2, sysdate());
+insert into SL_INV(ID, DATE) values (3, sysdate());
+insert into SL_PRODUCT(ID, NAME, PRICE, QUANTITY, INVENTORY_ID) values (1, 'Australia', 10, 8500, 2);
+insert into SL_PRODUCT(ID, NAME, PRICE, QUANTITY, INVENTORY_ID) values (2, 'India', 20, 20500, 1);
+insert into SL_PRODUCT(ID, NAME, PRICE, QUANTITY, INVENTORY_ID) values (3, 'Taiwan', 5600, 1300, 2);
+insert into SL_PRODUCT(ID, NAME, PRICE, QUANTITY, INVENTORY_ID) values (4, 'Philippines', 6111, 0, 2);
+insert into SL_PRODUCT(ID, NAME, PRICE, QUANTITY, INVENTORY_ID) values (5, 'Thailand', 1810, 0, 1);
+insert into SL_PRODUCT(ID, NAME, PRICE, QUANTITY, INVENTORY_ID) values (6, 'Singapore', 190, 1234, 1);
+insert into SL_PRODUCT(ID, NAME, PRICE, QUANTITY, INVENTORY_ID) values (7, 'Malaysia', 204, 5678, 2);

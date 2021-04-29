@@ -1,0 +1,16 @@
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\inventory\Inventory.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\config\AuthenticationRequest.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\service\ProductFileUploadService.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\config\JwtUtil.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\product\ProductController.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\config\AuthenticationResponse.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\InventoryManagementApplication.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\product\Product.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\product\ProductRepository.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\inventory\InventoryRepository.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\service\ProductService.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\product\ProductUpload.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\SpringSecurityJwtApplication.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\config\JwtRequestFilter.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\service\MyUserDetailsService.java
+D:\victoria\Microservices\Sprint2\msbatch3-inventory-management-master\msbatch3-inventory-management-master\src\main\java\com\sl\ms\inventorymanagement\product\ProductFileRepository.java

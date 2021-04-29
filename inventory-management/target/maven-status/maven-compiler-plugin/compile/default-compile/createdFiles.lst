@@ -1,0 +1,17 @@
+com\sl\ms\inventorymanagement\service\MyUserDetailsService.class
+com\sl\ms\inventorymanagement\config\AuthenticationRequest.class
+com\sl\ms\inventorymanagement\service\ProductFileUploadService.class
+com\sl\ms\inventorymanagement\product\ProductRepository.class
+com\sl\ms\inventorymanagement\config\JwtUtil.class
+com\sl\ms\inventorymanagement\product\ProductController.class
+com\sl\ms\inventorymanagement\config\JwtRequestFilter.class
+com\sl\ms\inventorymanagement\product\ProductFileRepository.class
+com\sl\ms\inventorymanagement\product\Product.class
+com\sl\ms\inventorymanagement\inventory\Inventory.class
+com\sl\ms\inventorymanagement\service\ProductService.class
+com\sl\ms\inventorymanagement\HelloWorldController.class
+com\sl\ms\inventorymanagement\inventory\InventoryRepository.class
+com\sl\ms\inventorymanagement\config\AuthenticationResponse.class
+com\sl\ms\inventorymanagement\InventoryManagementApplication.class
+com\sl\ms\inventorymanagement\product\ProductUpload.class
+com\sl\ms\inventorymanagement\WebSecurityConfig.class
