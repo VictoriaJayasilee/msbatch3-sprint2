@@ -1,0 +1,13 @@
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (1, 'Monitor', 50000);
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (2, 'Mouse', 6000);
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (3, 'KeyBoard', 7000);
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (4, 'LapTop', 80000);
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (5, 'Cable', 8500);
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (6, 'Desktop', 9000);
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (7, 'JoyStick', 9500);
+	insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (8, 'Networkcable', 9750);
+	insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (1, 'MM1', 10000, 5990, 5990, 1);
+	insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (2, 'KK1', 10000, 6990, 6990, 1);
+	insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (3, 'LL1', 10000, 6990, 6990, 1);
+	insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (4, 'DD1', 10000, 6990, 6990, 1);
+	insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (5, 'JJ1', 10000, 6990, 6990, 1);
